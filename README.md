@@ -48,4 +48,4 @@
 	
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=700FF3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=120&section=footer"/>
