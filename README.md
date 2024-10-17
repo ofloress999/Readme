@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=180&section=header&text=Igor+Flores&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=FUTURE+DEVELOPER;GRADUATE+INFORMATION+SYSTEM;IN+IFSULDEMINAS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=FUTURE+DEVELOPER;GRADUATE+INFORMATION+SYSTEM;STUDENT+IN+IFSULDEMINAS)](https://git.io/typing-svg)
 
 ## ⚡ GitHub Stats:
 <div align="center">  
