@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=180&section=header&text=Igor+Flores&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+/+Hello!;+Meu+nome+é+Daiana+Mendes;My+name+is+Daiana+Mendes;Tenho+19+anos+/+I+am+19+years+old;+Graduando+em+Sistemas+de+Informação;Majoring+in+Information+Systems;Be+Welcome!+:%29;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=FUTURE+DEVELOPER;GRADUATE+INFORMATION+SYSTEM;IN+IFSULDEMINAS)](https://git.io/typing-svg)
 
 ## ⚡ GitHub Stats:
 <div align="center">  
